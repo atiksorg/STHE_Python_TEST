@@ -1,1 +1,1 @@
-# STHE_Python_TEST
+# Тестовое задание на вакансию программиста Python в проект LOTUS STHE

@@ -4,4 +4,4 @@
 ```python
 class STHE:
     pass
-```php
+```

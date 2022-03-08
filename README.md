@@ -22,11 +22,14 @@
 
 ```python
 class ShellTubeHeatExchanger:
-    pass
+    def __init__(self, X, Y, Z, *args, **kwargs): # Достаточно описать 3-5 переменных, для каждого конструктора
+        pass
     
     class ShellSide
-        pass
+        def __init__(self, X, Y, Z, *args, **kwargs):
+            pass
         
     class TubeSide
-        pass
+        def __init__(self, X, Y, Z, *args, **kwargs):
+            pass
 ```

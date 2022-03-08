@@ -23,6 +23,12 @@
 ### Пример описание класса:
 
 ```python
-class STHE:
+class ShellTubeHeatExchanger:
     pass
+    
+    class ShellSide
+        pass
+        
+    class TubeSide
+        pass
 ```
